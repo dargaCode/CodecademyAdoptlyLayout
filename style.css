@@ -1,0 +1,176 @@
+html, body, .footer p {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+  /* HEADER */
+
+.header {
+  background-color: #30627E;
+}
+
+.header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header ul li {
+  display: inline;
+}
+
+.header ul li a {
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+.header ul li a:hover {
+  color: #E52364;
+}
+
+.header ul li .logo {
+  font-size: 28px;
+}
+
+.header ul li .logo {
+  background-color: #E52364;
+}
+
+.header ul li .logo:hover {
+  color: white;
+}
+
+  /* JUMBOTRON */
+
+.jumbotron {
+  height: 500px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/adoptly/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  margin: 0;
+}
+
+.jumbotron h1 {
+  color: #E52364;
+  font-weight: 700;
+  text-align: center;
+}
+
+  /* SUPPORTING */
+
+.supporting .row {
+  text-align: center;
+  color: #333333;
+  padding-bottom: 60px;
+  margin-bottom: 30px;
+}
+
+.supporting .row h2 {
+  padding-top: 30px;
+}
+
+.supporting .row p {
+  font-size: 14px;
+  font-weight: 0;
+  display: block;
+  min-height: 60px;
+  margin: 0 auto 40px;
+  padding: 0;
+}
+
+.supporting .row a {
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  outline: 1px solid;
+  color: #333333;
+  margin: 0;
+  padding: 8px 50px;
+}
+
+.supporting .row a:hover {
+  color: white;
+  background-color: #E52364; 
+}
+
+  /* FOOTER */
+
+.footer {
+  height: 80px;
+  background-color: #E52364;
+  color: white;
+}
+
+.footer .leftcol {
+  float: left;
+}
+
+.footer .leftcol p {
+  margin: 25px 15px 0;
+  font-size: 14px;
+}
+
+.footer .rightcol {
+  float: right;
+  margin-right: 10px;
+}
+
+.footer .rightcol ul {
+  list-style: none;
+  border: 0;
+  margin: 0;
+}
+
+.footer .rightcol ul li {
+  display: inline-block;
+}
+
+.footer .rightcol ul li a {
+  display: block;
+  margin: 25px 5px 0;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  padding: 1px 2px;
+}
+
+.footer .rightcol ul li a:hover {
+  border-bottom: 1px solid white;
+}
+
+  /* MEDIA QUERIES */
+
+@media (max-width: 991px) {
+  
+  .supporting .row p {
+    min-height: 0px;    
+    max-width: 450px;
+  }
+  
+}
+
+@media (max-width: 530px) {
+  
+  .supporting .row p {
+    min-height: 0px;    
+    max-width: 90%;
+  }
+  
+}
