@@ -1,5 +1,5 @@
 # Adoptly Page Layout
-<strong>Language: HTML/CSS</strong>
+<strong>Language: HTML/CSS + Bootstrap</strong>
 
 After a month of doing little exercises and mini-projects that were mostly other people’s code, I’m excited I can finally post a project!
 
