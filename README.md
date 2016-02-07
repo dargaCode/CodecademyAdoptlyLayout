@@ -5,7 +5,7 @@ After a month of doing little exercises and mini-projects that were mostly other
 
 I’m still working through Codecademy’s layout projects. This is the first one that felt like the starter code they provided was negligible.
 
-I visually matched codecademy’s example and used Bootstrap columns and jumbotron, but rolled my own navbar and hovers.
+I visually matched <a href="https://s3.amazonaws.com/codecademy-content/projects/adoptly/index.html">codecademy’s example</a> and used Bootstrap columns and jumbotron, but rolled my own navbar and hovers.
 
 I’m enjoying figuring out more of the weird quirks of CSS, but I miss programming and am looking forward to some interactive pages. 
 
