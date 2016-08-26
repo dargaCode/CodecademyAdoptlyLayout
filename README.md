@@ -11,4 +11,4 @@ I’m enjoying figuring out more of the weird quirks of CSS, but I miss programm
 
 <a href="http://dargacode.github.io/CodecademyAdoptlyLayout/"><strong>Live Webpage</strong></a>
 
-<img src ="http://41.media.tumblr.com/1e5f24c9f04331556234d5cfc39bf5a2/tumblr_inline_o0zfq9NcO01tvc5hi_1280.png" width=“360" height="360">
+<img src ="http://41.media.tumblr.com/1e5f24c9f04331556234d5cfc39bf5a2/tumblr_inline_o0zfq9NcO01tvc5hi_1280.png" width="550">
